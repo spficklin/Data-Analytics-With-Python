@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/spficklin/Data-Analytics-With-Python/master)
+
 # Data Analytics for Python
 
 This repository contains lessons and practice sheets, provided in Jupyter Notebooks, for the AFS 505 course at Washington State University titled "Topics in Computational and Analytical Methods for Scientists."  This repository contains material for the second unit offered in the Spring. The unit is titled "Data Analysis in Python".
